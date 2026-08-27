@@ -283,7 +283,8 @@ PROJECT MIGRATION COMPLETED SUCCESSFULLY
 Successfully migrated: 39 projects
 Total projects in AlloyDB: 39
 Projects with embeddings: 39
-Projects with valid 1536-dimensional embeddings: 39
+Projects with valid 1536-dimensi
+onal embeddings: 39
 
 First 10 projects:
 PRJ001 | Widget Maker / AIKB | Internal | Embedding dimensions: 1536
