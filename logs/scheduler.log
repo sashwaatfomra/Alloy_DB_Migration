@@ -92,3 +92,191 @@ Log saved to: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260901_02
 ============================================================
 
 ALL MIGRATIONS COMPLETED SUCCESSFULLY
+============================================================
+ALLOYDB DATA MIGRATION RUNNER
+============================================================
+Started: 2026-09-02 02:11:21
+Log file: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260902_021121.log
+
+============================================================
+STARTING: Employee Migration
+============================================================
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+FAILED: Employee Migration
+Script: /Users/shaswaatfomra/Alloy_DB_Migration/migrate_emp_db.py
+Duration: 0:01:11.340914
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Migration pipeline stopped because a migration failed.
+
+============================================================
+MIGRATION RUN SUMMARY
+============================================================
+Successful: 0
+Failed: 1
+  ✗ Employee Migration
+
+Total duration: 0:01:11.342444
+Log saved to: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260902_021121.log
+============================================================
+============================================================
+ALLOYDB DATA MIGRATION RUNNER
+============================================================
+Started: 2026-09-03 02:00:21
+Log file: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260903_020021.log
+
+============================================================
+STARTING: Employee Migration
+============================================================
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+FAILED: Employee Migration
+Script: /Users/shaswaatfomra/Alloy_DB_Migration/migrate_emp_db.py
+Duration: 0:17:39.545320
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Migration pipeline stopped because a migration failed.
+
+============================================================
+MIGRATION RUN SUMMARY
+============================================================
+Successful: 0
+Failed: 1
+  ✗ Employee Migration
+
+Total duration: 0:17:39.548390
+Log saved to: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260903_020021.log
+============================================================
+============================================================
+ALLOYDB DATA MIGRATION RUNNER
+============================================================
+Started: 2026-09-04 02:09:14
+Log file: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260904_020914.log
+
+============================================================
+STARTING: Employee Migration
+============================================================
+
+------------------------------------------------------------
+COMPLETED: Employee Migration
+Duration: 0:00:42.202004
+------------------------------------------------------------
+
+============================================================
+STARTING: Project Migration
+============================================================
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+FAILED: Project Migration
+Script: /Users/shaswaatfomra/Alloy_DB_Migration/migrate_project_db.py
+Duration: 0:02:13.033471
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Migration pipeline stopped because a migration failed.
+
+============================================================
+MIGRATION RUN SUMMARY
+============================================================
+Successful: 1
+  ✓ Employee Migration
+Failed: 1
+  ✗ Project Migration
+
+Total duration: 0:02:55.237997
+Log saved to: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260904_020914.log
+============================================================
+============================================================
+ALLOYDB DATA MIGRATION RUNNER
+============================================================
+Started: 2026-09-05 02:03:08
+Log file: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260905_020308.log
+
+============================================================
+STARTING: Employee Migration
+============================================================
+
+------------------------------------------------------------
+COMPLETED: Employee Migration
+Duration: 0:00:09.468910
+------------------------------------------------------------
+
+============================================================
+STARTING: Project Migration
+============================================================
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+FAILED: Project Migration
+Script: /Users/shaswaatfomra/Alloy_DB_Migration/migrate_project_db.py
+Duration: 0:41:49.741323
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Migration pipeline stopped because a migration failed.
+
+============================================================
+MIGRATION RUN SUMMARY
+============================================================
+Successful: 1
+  ✓ Employee Migration
+Failed: 1
+  ✗ Project Migration
+
+Total duration: 0:41:59.211912
+Log saved to: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260905_020308.log
+============================================================
+============================================================
+ALLOYDB DATA MIGRATION RUNNER
+============================================================
+Started: 2026-09-06 02:02:43
+Log file: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260906_020243.log
+
+============================================================
+STARTING: Employee Migration
+============================================================
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+FAILED: Employee Migration
+Script: /Users/shaswaatfomra/Alloy_DB_Migration/migrate_emp_db.py
+Duration: 0:00:30.526331
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Migration pipeline stopped because a migration failed.
+
+============================================================
+MIGRATION RUN SUMMARY
+============================================================
+Successful: 0
+Failed: 1
+  ✗ Employee Migration
+
+Total duration: 0:00:30.528403
+Log saved to: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260906_020243.log
+============================================================
+============================================================
+ALLOYDB DATA MIGRATION RUNNER
+============================================================
+Started: 2026-09-07 02:03:08
+Log file: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260907_020308.log
+
+============================================================
+STARTING: Employee Migration
+============================================================
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+FAILED: Employee Migration
+Script: /Users/shaswaatfomra/Alloy_DB_Migration/migrate_emp_db.py
+Duration: 0:01:10.914016
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Migration pipeline stopped because a migration failed.
+
+============================================================
+MIGRATION RUN SUMMARY
+============================================================
+Successful: 0
+Failed: 1
+  ✗ Employee Migration
+
+Total duration: 0:01:10.938949
+Log saved to: /Users/shaswaatfomra/Alloy_DB_Migration/logs/migration_20260907_020308.log
+============================================================

@@ -14,6 +14,7 @@ MIGRATIONS = [
     ("Employee Migration", BASE_DIR / "migrate_emp_db.py"),
     ("Project Migration", BASE_DIR / "migrate_project_db.py"),
     ("Project Members Migration", BASE_DIR / "migrate_project_members.py"),
+    ("Mentorship Plan Migration", BASE_DIR / "migrate_mentorship_plan.py"),
 ]
 
 LOG_DIR = BASE_DIR / "logs"

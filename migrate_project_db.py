@@ -21,7 +21,7 @@ SERVICE_ACCOUNT_FILE = "service-account.json"
 # ============================================================
 
 DB_HOST = "35.239.110.182"
-DB_NAME = "int_db"
+DB_NAME = "new_db"
 DB_USER = "int-user"
 DB_PASSWORD = "5x;g?3<0_CvNK*Oi"
 
